@@ -6,6 +6,7 @@
   "background_color": "#ffffff",
   "theme_color": "#007bff",
   "icons": [
+    "orientation": "portrait",
     {
       "src": "manifest-icon-192.maskable.png",
       "sizes": "192x192",
