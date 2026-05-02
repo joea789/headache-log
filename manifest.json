@@ -1,0 +1,21 @@
+{
+  "name": "Headache Pro Tracker",
+  "short_name": "Headache Tracker",
+  "description": "A simple app to track headache episodes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#bb86fc",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
